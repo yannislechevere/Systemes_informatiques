@@ -57,5 +57,5 @@ Nous avons développé des scripts pour transformer un jeu de données selon un 
 
 # Auteur
 
-Projet réalisé en quatuor :  
-**CHAUVEL Arthur**, **LE BOURIS Mael**, **LE CHEVERE Yannis**, **LE SECH Marceau**
+Projet réalisé en quadrinôme :  
+**CHAUVEL Arthur**, **LE BOURIS Mael**, **LE CHEVERE Yannis** et **LE SECH Marceau**
